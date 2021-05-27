@@ -1,0 +1,14 @@
+C:\Users\peter.ainsworth\Desktop\FileExtensionsStarter\FileExtensionsTester\bin\Debug\FileExtensionsTester.exe.config
+C:\Users\peter.ainsworth\Desktop\FileExtensionsStarter\FileExtensionsTester\bin\Debug\FileExtensionsTester.exe
+C:\Users\peter.ainsworth\Desktop\FileExtensionsStarter\FileExtensionsTester\bin\Debug\FileExtensionsTester.pdb
+C:\Users\peter.ainsworth\Desktop\FileExtensionsStarter\FileExtensionsTester\obj\Debug\FileExtensionsTester.csprojAssemblyReference.cache
+C:\Users\peter.ainsworth\Desktop\FileExtensionsStarter\FileExtensionsTester\obj\Debug\FileExtensionsTester.csproj.CoreCompileInputs.cache
+C:\Users\peter.ainsworth\Desktop\FileExtensionsStarter\FileExtensionsTester\obj\Debug\FileExtensionsTester.exe
+C:\Users\peter.ainsworth\Desktop\FileExtensionsStarter\FileExtensionsTester\obj\Debug\FileExtensionsTester.pdb
+E:\HND SOFTWARE DEVELOPMENT\CODE\FileExtensionsStarter\FileExtensionsStarter\FileExtensionsTester\bin\Debug\FileExtensionsTester.exe.config
+E:\HND SOFTWARE DEVELOPMENT\CODE\FileExtensionsStarter\FileExtensionsStarter\FileExtensionsTester\bin\Debug\FileExtensionsTester.exe
+E:\HND SOFTWARE DEVELOPMENT\CODE\FileExtensionsStarter\FileExtensionsStarter\FileExtensionsTester\bin\Debug\FileExtensionsTester.pdb
+E:\HND SOFTWARE DEVELOPMENT\CODE\FileExtensionsStarter\FileExtensionsStarter\FileExtensionsTester\obj\Debug\FileExtensionsTester.csprojAssemblyReference.cache
+E:\HND SOFTWARE DEVELOPMENT\CODE\FileExtensionsStarter\FileExtensionsStarter\FileExtensionsTester\obj\Debug\FileExtensionsTester.csproj.CoreCompileInputs.cache
+E:\HND SOFTWARE DEVELOPMENT\CODE\FileExtensionsStarter\FileExtensionsStarter\FileExtensionsTester\obj\Debug\FileExtensionsTester.exe
+E:\HND SOFTWARE DEVELOPMENT\CODE\FileExtensionsStarter\FileExtensionsStarter\FileExtensionsTester\obj\Debug\FileExtensionsTester.pdb
